@@ -1,0 +1,32 @@
+[
+  {
+    "model": "bilstm",
+    "params": 4424834,
+    "train_time_s": 2283.3,
+    "eval_time_s": 118.4,
+    "perplexity": 843.9891,
+    "top1_acc": 0.0754,
+    "top3_acc": 0.1563,
+    "top5_acc": 0.2035
+  },
+  {
+    "model": "bigru_attention",
+    "params": 4296691,
+    "train_time_s": 3007.4,
+    "eval_time_s": 115.9,
+    "perplexity": 816.9099,
+    "top1_acc": 0.0851,
+    "top3_acc": 0.1699,
+    "top5_acc": 0.2195
+  },
+  {
+    "model": "mini_transformer",
+    "params": 3511898,
+    "train_time_s": 1767.5,
+    "eval_time_s": 103.7,
+    "perplexity": 1318.0215,
+    "top1_acc": 0.0294,
+    "top3_acc": 0.069,
+    "top5_acc": 0.1141
+  }
+]

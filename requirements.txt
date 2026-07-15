@@ -1,0 +1,11 @@
+tensorflow>=2.18
+numpy
+pandas
+scikit-learn
+matplotlib
+plotly
+streamlit
+nltk
+pytest
+flake8
+black
