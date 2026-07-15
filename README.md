@@ -2,7 +2,7 @@
 
 Three sequence models — a **BiLSTM**, a **BiGRU with hand-written additive attention**, and a **from-scratch decoder-only mini-Transformer** — trained on the same Shakespeare corpus under identical conditions and compared on **perplexity** and **top-k accuracy**, not accuracy alone.
 
-🔗 **Live demo:** *[add your Streamlit Community Cloud link here]*
+🔗 **Live demo:** https://nextwordpredictionappbilstm.streamlit.app/
 
 ---
 
